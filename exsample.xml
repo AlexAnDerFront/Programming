@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bookstore branch="Downtown" region="North">
+    <book id="bk101">
+        <author>Gambardella, Matthew</author>
+        <title>XML Developer's Guide</title>
+        <genre>Computer</genre>
+        <price currency="USD">44.95</price>
+        <publish_date>2000-10-01</publish_date>
+        <description>An in-depth look at creating applications with XML.</description>
+    </book>
+    <book id="bk102">
+        <author>Ralls, Kim</author>
+        <title>Midnight Rain</title>
+        <genre>Fantasy</genre>
+        <price currency="USD">5.95</price>
+        <publish_date>2000-12-16</publish_date>
+        <description>A former architect battles corporate zombies.</description>
+    </book>
+    <book id="bk103">
+        <author>Corets, Eva</author>
+        <title>Maeve Ascendant</title>
+        <genre>Fantasy</genre>
+        <price currency="GBP">7.99</price>
+        <publish_date>2000-11-17</publish_date>
+        <description>After the collapse of a mythic earth, Antigua acquires extraterrestrial technology.</description>
+    </book>
+    <book id="bk104">
+        <author>Corets, Eva</author>
+        <title>Oberon's Legacy</title>
+        <genre>Fantasy</genre>
+        <price currency="USD">5.95</price>
+        <publish_date>2001-03-10</publish_date>
+        <description>In post-apocalyptic world, the legacy of Oberon reigns supreme.</description>
+    </book>
+</bookstore>
